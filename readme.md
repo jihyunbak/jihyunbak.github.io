@@ -1,6 +1,6 @@
 # Ji Hyun Bak #
 
-I am a postdoctoral researcher at the  
+I am a postdoctoral researcher at the
 [Redwood center for theoretical neuroscience](http://redwood.berkeley.edu) at UC Berkeley. 
 This is [my directory at Redwood](https://redwood.berkeley.edu/people/ji-hyun-bak).
 My mentor is Mike DeWeese.
