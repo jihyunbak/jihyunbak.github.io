@@ -5,15 +5,30 @@ layout: page
 order: 1
 ---
 
-I am a postdoctoral researcher at the
-[Redwood center for theoretical neuroscience](http://redwood.berkeley.edu) at UC Berkeley. 
-This is [my directory at Redwood](https://redwood.berkeley.edu/people/ji-hyun-bak).
-My mentor is Mike DeWeese.
+I am a postdoctoral researcher in computational neuroscience, working in a collaborative team between UCSF and LBL.
+My mentors are
+[Christoph Kirst](https://profiles.ucsf.edu/christoph.kirst),
+[Kris Bouchard](https://bouchardlab.lbl.gov),
+and
+[Loren Frank](https://www.cin.ucsf.edu/HTML/Loren_Frank.html).
 
-Previously, I was a postdoctoral research fellow at 
-[Korea Institute for Advanced Study](http://www.kias.re.kr). 
-This was [my personal page at KIAS.](http://newton.kias.re.kr/~jhbak)
-I did my PhD in physics at Princeton University, and an undergraduate degree in Physics at Korea Advanced Institute of Science and Technology.
+
+I did my PhD in physics at Princeton University, and an undergraduate degree in Physics at Korea Advanced Institute of Science and Technology (KAIST).
+I was also a postdoc at the
+Korea Institute for Advanced Study (KIAS), 
+and the
+Redwood Center for Theoretical Neuroscience at UC Berkeley.
+
+
+<!---
+
+- [my KIAS directory](http://newton.kias.re.kr/~jhbak)
+- [my redwood directory](https://redwood.berkeley.edu/people/ji-hyun-bak)
+- 
+--->
+
+
+
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
